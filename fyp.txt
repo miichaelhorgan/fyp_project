@@ -1,0 +1,7 @@
+this is verion one version 2 will have complete software 
+1. download xampp
+2. put sql file in php my admin 
+3. download tomcat 
+4. run xampp with apache, mysql and tomcat running 
+5. run software it should run on http://localhost:8080/FYP/DisplayAllStudent
+5. go into links and search bars and anything you can go into everything should work besides the table for the attributes 
